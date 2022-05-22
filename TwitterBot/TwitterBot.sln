@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBot", "TwitterBot\TwitterBot.csproj", "{6EC26730-01C0-4951-B5E2-7E28583D4A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAPIWrapper", "TwitterAPIWrapper\TwitterAPIWrapper.csproj", "{4C608EB6-BDE8-49A9-87A1-55A90FF4EA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC26730-01C0-4951-B5E2-7E28583D4A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC26730-01C0-4951-B5E2-7E28583D4A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC26730-01C0-4951-B5E2-7E28583D4A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC26730-01C0-4951-B5E2-7E28583D4A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C608EB6-BDE8-49A9-87A1-55A90FF4EA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C608EB6-BDE8-49A9-87A1-55A90FF4EA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C608EB6-BDE8-49A9-87A1-55A90FF4EA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C608EB6-BDE8-49A9-87A1-55A90FF4EA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB37E0D-2212-43FD-826F-F55B4212F99F}
+	EndGlobalSection
+EndGlobal
